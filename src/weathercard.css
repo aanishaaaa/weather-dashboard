@@ -1,0 +1,8 @@
+.weather-card {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin-top: 1rem;
+    display: inline-block;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+  }
