@@ -53,8 +53,5 @@ You’ll need an API key to fetch weather data.
 ## 🌐 Live Demo
 Coming soon via GitHub Pages or Vercel!
 
-## 📄 License
-This project is open source under the MIT License.
-
 ## 💡 Author
 Aanishaaa
